@@ -1,0 +1,15 @@
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.csproj.AssemblyReference.cache
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.AssemblyInfoInputs.cache
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.AssemblyInfo.cs
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.csproj.CoreCompileInputs.cache
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\bin\Debug\net7.0\T2.exe
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\bin\Debug\net7.0\T2.deps.json
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\bin\Debug\net7.0\T2.runtimeconfig.json
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\bin\Debug\net7.0\T2.dll
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\bin\Debug\net7.0\T2.pdb
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.dll
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\refint\T2.dll
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.pdb
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\T2.genruntimeconfig.cache
+C:\Users\a2943\Documents\Geekb HomeWork\Task4\T2\obj\Debug\net7.0\ref\T2.dll
